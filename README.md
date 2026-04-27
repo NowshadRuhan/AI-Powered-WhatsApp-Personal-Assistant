@@ -6,16 +6,7 @@ A workflow that connects WhatsApp with an AI agent using n8n. Incoming messages 
 ![aiagent](https://github.com/NowshadRuhan/AI-Powered-WhatsApp-Personal-Assistant/blob/main/ai-agent-success.png?raw=true) 
 
 ## AI Agent: workflow video: Watch the video 
-<!-- Basic YouTube embed -->
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/dgQp6S7pBP8"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin"
-  allowfullscreen>
-</iframe>
+
+https://www.youtube.com/embed/dgQp6S7pBP8
 
 
